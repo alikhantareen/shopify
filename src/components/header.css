@@ -1,0 +1,20 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    height:50px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+#brand{
+    font-family: "DejaVu Math TeX Gyre";
+    font-size: 25px;
+    color: gold;
+}
+
+#cartlength{
+    font-family: "DejaVu Math TeX Gyre";
+    font-size: 20px;
+    color: gold;
+}

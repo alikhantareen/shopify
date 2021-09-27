@@ -1,0 +1,23 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+.maincartitemcontainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.cartitembox{
+    width: 60%;
+    height: auto;
+    display: flex;
+    padding: 20px;
+    align-items: flex-end;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+#cartimage{
+    width: 15%;
+    margin-right: 20px;
+}
