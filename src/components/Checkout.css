@@ -1,0 +1,33 @@
+.form-main{
+    width: 50%;
+    height: auto;
+    margin: 1% auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
+#name, #email, #address, #phone{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#btn{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
